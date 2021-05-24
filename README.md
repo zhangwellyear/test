@@ -1,6 +1,6 @@
 # test
 
-- [ ] content
+- [x] content
 - [ ] content
 - [ ] content
 - [ ] content
